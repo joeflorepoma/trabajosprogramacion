@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1505867877 source:c:\users\alumno\desktop\netflix\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1505869401 c:\users\alumno\desktop\netflix\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1505869085 source:c:\users\alumno\desktop\netflix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
