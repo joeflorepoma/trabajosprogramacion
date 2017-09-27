@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506463293 source:c:\users\alumno\desktop\ordenamiento doble criterio\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
