@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507335475 source:d:\aritmeticadepunteros\main.c
+	<stdio.h>
+	<stdlib.h>
+
